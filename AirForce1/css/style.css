@@ -1,0 +1,12 @@
+#airforce1 {
+    color: #FFFF00;
+}
+
+#airforce1:hover {
+    color: #CCCC00;
+    background-color: #746735;
+}
+
+body {
+    background-color: #000000;
+}
