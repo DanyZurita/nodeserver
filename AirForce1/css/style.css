@@ -10,3 +10,9 @@
 body {
     background-color: #000000;
 }
+
+hr.nakedhr {
+    height: 6px;
+    background: url(http://ibrahimjabbari.com/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+}
