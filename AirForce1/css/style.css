@@ -1,10 +1,18 @@
 #airforce1 {
-    color: #FFFF00;
+    color: #DDDD00;
 }
 
 #airforce1:hover {
-    color: #CCCC00;
-    background-color: #746735;
+    color: #FFFF00;
+    background-color: #75662b;
+}
+
+#rebajas {
+    color: #CC0000;
+}
+
+#rebajas:hover {
+    color: #FF0000;
 }
 
 body {
